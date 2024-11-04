@@ -7,6 +7,7 @@ En este ejercicio, aprenderás a crear una página web replicando el diseño de 
 1. Haz fork y clona este repositorio en tu entorno de desarrollo:
 
    ```
+   
    git clone (url del repo del ejercicio)
    ```
 
